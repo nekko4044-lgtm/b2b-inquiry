@@ -2,7 +2,7 @@
 
 A lightweight B2B inquiry form for a German publisher selling to libraries and kindergartens. Institutions submit book requests via a German-language form; the system stores leads in a PostgreSQL database, sends a branded confirmation email to the institution, and notifies the admin.
 
-**Live Demo:** _link after Vercel deployment_
+**Live Demo:** https://b2b-inquiry.vercel.app/
 
 ---
 
